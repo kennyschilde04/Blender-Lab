@@ -1,0 +1,3 @@
+/* Minimal styles for settings page */
+body.settings_page_beckin-maintenance-mode .wrap .form-table th { width: 240px; }
+body.settings_page_beckin-maintenance-mode p.submit input#beckin-maintenancemode-reset-styles { margin-left: 10px; }

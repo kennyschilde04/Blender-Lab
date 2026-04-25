@@ -1,0 +1,242 @@
+# Copyright (C) 2025 Beckin, Christopher Silvey
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Beckin Maintenance Mode 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/beckin-maintenance-mode\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-12-22T05:36:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: beckin-maintenance-mode\n"
+
+#. Plugin Name of the plugin
+#: beckin-maintenance-mode.php
+msgid "Beckin Maintenance Mode"
+msgstr ""
+
+#. Description of the plugin
+#: beckin-maintenance-mode.php
+msgid "Simple maintenance / coming soon toggle with customizable message, admin bypass, and proper 503 + Retry-After."
+msgstr ""
+
+#. Author of the plugin
+#: beckin-maintenance-mode.php
+msgid "Beckin, Christopher Silvey"
+msgstr ""
+
+#. Author URI of the plugin
+#: beckin-maintenance-mode.php
+msgid "https://www.beckin.com"
+msgstr ""
+
+#. translators: H1 header text for the maintenance page. &#128119; is an HTML entity and should not be translated.
+#: beckin-maintenance-mode.php:69
+#: includes/class-beckin-maintenance-mode-frontend.php:154
+msgid "&#128119; Site under maintenance"
+msgstr ""
+
+#. translators: Default body message shown on the maintenance page.
+#: beckin-maintenance-mode.php:74
+#: includes/class-beckin-maintenance-mode-frontend.php:162
+msgid "We'll be right back! We're doing a bit of maintenance."
+msgstr ""
+
+#. translators: Settings page title and menu label for the Maintenance Mode screen.
+#: includes/class-beckin-maintenance-mode-admin.php:46
+#: includes/class-beckin-maintenance-mode-admin.php:48
+#: includes/class-beckin-maintenance-mode-admin.php:671
+msgid "Maintenance Mode"
+msgstr ""
+
+#. translators: Section heading for the main maintenance mode settings.
+#: includes/class-beckin-maintenance-mode-admin.php:98
+msgid "Main Settings"
+msgstr ""
+
+#. translators: Field label for the checkbox that turns maintenance mode on or off.
+#: includes/class-beckin-maintenance-mode-admin.php:106
+msgid "Enable maintenance mode"
+msgstr ""
+
+#. translators: Field label for the checkbox that lets users with the edit_posts capability bypass maintenance mode.
+#: includes/class-beckin-maintenance-mode-admin.php:115
+msgid "Editor bypass mode"
+msgstr ""
+
+#. translators: Field label for the maintenance page header text.
+#: includes/class-beckin-maintenance-mode-admin.php:124
+msgid "Header title"
+msgstr ""
+
+#. translators: Field label for the maintenance page body message.
+#: includes/class-beckin-maintenance-mode-admin.php:133
+msgid "Message"
+msgstr ""
+
+#. translators: Field label for the Retry-After header value in seconds, used for search engines and crawlers.
+#: includes/class-beckin-maintenance-mode-admin.php:142
+msgid "Retry-After (seconds)"
+msgstr ""
+
+#. translators: Section heading for the styling options of the maintenance page.
+#: includes/class-beckin-maintenance-mode-admin.php:160
+msgid "Style Settings"
+msgstr ""
+
+#. translators: Field label for the color picker that controls the maintenance page background color.
+#: includes/class-beckin-maintenance-mode-admin.php:168
+msgid "Background color"
+msgstr ""
+
+#. translators: Field label for the color picker that controls the message box background color.
+#: includes/class-beckin-maintenance-mode-admin.php:177
+msgid "Message box color"
+msgstr ""
+
+#. translators: Field label for the numeric input that controls the message box background opacity.
+#: includes/class-beckin-maintenance-mode-admin.php:186
+msgid "Message box opacity"
+msgstr ""
+
+#. translators: Field label for the color picker that controls the header text color.
+#: includes/class-beckin-maintenance-mode-admin.php:195
+msgid "Header Text color"
+msgstr ""
+
+#. translators: Field label for the color picker that controls the body text color.
+#: includes/class-beckin-maintenance-mode-admin.php:204
+msgid "Body Text color"
+msgstr ""
+
+#. translators: Short label in the admin bar indicating maintenance mode is active. &#128679; is an HTML entity and should not be translated.
+#: includes/class-beckin-maintenance-mode-admin.php:247
+msgid "&#128679; Maint. ON"
+msgstr ""
+
+#. translators: Tooltip text for the maintenance mode admin bar badge.
+#: includes/class-beckin-maintenance-mode-admin.php:254
+msgid "Maintenance mode is ON"
+msgstr ""
+
+#. translators: Link label in the plugin row action area that opens the Beckin Maintenance Mode settings page.
+#: includes/class-beckin-maintenance-mode-admin.php:280
+msgid "Settings"
+msgstr ""
+
+#: includes/class-beckin-maintenance-mode-admin.php:314
+msgid "Support"
+msgstr ""
+
+#: includes/class-beckin-maintenance-mode-admin.php:322
+msgid "Help Us With Stars"
+msgstr ""
+
+#. translators: Checkbox label that enables or disables the maintenance mode page for visitors.
+#: includes/class-beckin-maintenance-mode-admin.php:416
+msgid "Show maintenance page to visitors (admin bypass)"
+msgstr ""
+
+#. translators: Shown next to a checkbox. "edit_posts" is a WordPress capability name and <br> is an HTML tag and should not be translated. Role names like Editors, Authors, Contributors are WordPress roles.
+#: includes/class-beckin-maintenance-mode-admin.php:439
+msgid "Allow users with \"edit_posts\" capability to bypass maintenance mode.<br>e.g., Editors, Authors, Contributors, etc."
+msgstr ""
+
+#. translators: Help text shown under the header title field. Explains that only plain text is allowed, but emoji HTML entities like &#128119; are supported. <br> &#128119; &#38;#128119; are HTML & HTML entities and should not be translated.
+#: includes/class-beckin-maintenance-mode-admin.php:470
+msgid "Plain text only.<br>If you want to use an emoji ( &#128119; ), you can include HTML entities like &#38;#128119;"
+msgstr ""
+
+#. translators: Help text under the maintenance message textarea. Indicates that some basic HTML tags are allowed.
+#: includes/class-beckin-maintenance-mode-admin.php:494
+msgid "Basic HTML allowed."
+msgstr ""
+
+#. translators: Help text for the Retry-After field. "0" means the Retry-After header will not be sent.
+#: includes/class-beckin-maintenance-mode-admin.php:513
+msgid "Hint for crawlers (0 disables the header)."
+msgstr ""
+
+#. translators: Help text under the background color picker for the maintenance page.
+#: includes/class-beckin-maintenance-mode-admin.php:539
+msgid "Choose the background color for the maintenance page."
+msgstr ""
+
+#. translators: Help text under the color picker for the message box background.
+#: includes/class-beckin-maintenance-mode-admin.php:565
+msgid "Choose the background color for the message box."
+msgstr ""
+
+#. translators: Help text for the message box opacity field. Explains that 0 is fully transparent and 100 is fully opaque.
+#: includes/class-beckin-maintenance-mode-admin.php:598
+msgid "Set the opacity (0 = fully transparent, 100 = fully opaque) for the message box background."
+msgstr ""
+
+#. translators: Help text under the color picker for the header text on the maintenance page.
+#: includes/class-beckin-maintenance-mode-admin.php:624
+msgid "Choose the header text color for the maintenance page."
+msgstr ""
+
+#. translators: Help text under the color picker for the body text on the maintenance page.
+#: includes/class-beckin-maintenance-mode-admin.php:650
+msgid "Choose the body text color for the maintenance page."
+msgstr ""
+
+#: includes/class-beckin-maintenance-mode-admin.php:674
+msgid "About Beckin"
+msgstr ""
+
+#. translators: 1: Opening HTML <a> tag, 2: closing HTML </a> tag.
+#: includes/class-beckin-maintenance-mode-admin.php:680
+#, php-format
+msgid "I develop plugins that help WordPress users save time and get more done. If this plugin helped you, please consider %1$sbuying me a coffee%2$s &#9749; to help support future updates and new features."
+msgstr ""
+
+#. translators: Button label for resetting maintenance mode styling settings to their default values.
+#: includes/class-beckin-maintenance-mode-admin.php:703
+msgid "Reset Style Settings"
+msgstr ""
+
+#. translators: Error message shown when a user without permission tries to manage maintenance mode via WP-CLI.
+#: includes/class-beckin-maintenance-mode-cli.php:44
+msgid "Sorry, you are not allowed to manage this setting."
+msgstr ""
+
+#. translators: Success message shown when maintenance mode is enabled via WP-CLI.
+#: includes/class-beckin-maintenance-mode-cli.php:63
+msgid "Maintenance mode enabled."
+msgstr ""
+
+#. translators: Success message shown when maintenance mode is disabled via WP-CLI.
+#: includes/class-beckin-maintenance-mode-cli.php:81
+msgid "Maintenance mode disabled."
+msgstr ""
+
+#: includes/class-beckin-maintenance-mode-cli.php:97
+msgid "yes"
+msgstr ""
+
+#: includes/class-beckin-maintenance-mode-cli.php:98
+msgid "no"
+msgstr ""
+
+#. translators: %s is either 'yes' or 'no'.
+#: includes/class-beckin-maintenance-mode-cli.php:103
+#, php-format
+msgid "Enabled: %s"
+msgstr ""
+
+#. translators: %d is the Retry-After value in seconds.
+#: includes/class-beckin-maintenance-mode-cli.php:112
+#, php-format
+msgid "Retry-After: %d"
+msgstr ""
+
+#. translators: Title text for the maintenance page shown in the browser tab.
+#: includes/class-beckin-maintenance-mode-frontend.php:309
+msgid "Maintenance"
+msgstr ""

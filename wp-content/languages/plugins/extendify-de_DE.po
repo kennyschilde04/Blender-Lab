@@ -1,0 +1,1265 @@
+# Translation of Plugins - Extendify - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Extendify - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-04-12 12:50:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Extendify - Stable (latest release)\n"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:21
+#: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:227
+msgid "Image generated successfully!"
+msgstr "Bild erfolgreich generiert!"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:18
+#: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:120
+msgid "An unknown error occurred."
+msgstr "Ein unbekannter Fehler ist aufgetreten."
+
+#: public/build/extendify-recommendations-7ecf04592ca8714928b2.js:4
+#: src/Recommendations/components/RecommendationCard.jsx:192
+msgctxt "Plugin activation status"
+msgid "Activated"
+msgstr "Aktiviert"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/pages/ObjectiveSelection.jsx:42
+msgid "Landing Page"
+msgstr "Landingpage"
+
+#: public/build/extendify-page-creator-6d8b3f0e0ada07c15f72.js:1
+#: src/PageCreator/components/ConfirmationModal.jsx:28
+msgid "Confirmation"
+msgstr "Bestätigung"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/pages/SiteInformation.jsx:168
+msgid "Website title (required)"
+msgstr "Website-Titel (erforderlich)"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:134
+msgid "Lithuanian"
+msgstr "Litauisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:164
+msgid "Romanian"
+msgstr "Rumänisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:14
+msgid "Arabic"
+msgstr "Arabisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:99
+msgid "Greek"
+msgstr "Griechisch"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/components/dashboard/LaunchCard.jsx:36
+msgid "Site Structure"
+msgstr "Website-Struktur"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:144
+msgid "Norwegian"
+msgstr "Norwegisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:114
+msgid "Hungarian"
+msgstr "Ungarisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:24
+msgid "Bulgarian"
+msgstr "Bulgarisch"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: src/Assist/tasks/images/HelpCenterMarkup.jsx:89
+msgid "Knowledge base"
+msgstr "Wissensdatenbank"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:169
+msgid "Russian"
+msgstr "Russisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:199
+msgid "Turkish"
+msgstr "Türkisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:34
+msgid "Czech"
+msgstr "Tschechisch"
+
+#. translators: This string represents the title of a "Team" page on a website
+#. that introduces the team members. Please translate it in a way that fits the
+#. standard phrasing for a "Team" page in the target language, considering the
+#. common usage in websites for
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: public/build/extendify-common-20388f64d97467a51614.js:81
+#: src/Assist/svg/DesignLibraryMarkup.jsx:96 src/Shared/lib/pages.js:174
+msgid "Team"
+msgstr "Team"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/svg/DesignLibraryMarkup.jsx:81
+msgid "Call to Action"
+msgstr "Handlungsaufforderung"
+
+#: app/Shared/Services/PluginDependencies/Forms/WPForms.php:131
+msgid "Name"
+msgstr "Name"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: src/Assist/tasks/images/AiImageGeneratorMarkup.jsx:88
+#: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:96
+msgid "Save draft"
+msgstr "Entwurf speichern"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/svg/DesignLibraryMarkup.jsx:242
+#: src/Assist/svg/DesignLibraryMarkup.jsx:280
+#: src/Assist/svg/DesignLibraryMarkup.jsx:309
+#: src/Assist/svg/DesignLibraryMarkup.jsx:338
+msgid "Jessie Coleman"
+msgstr "Jessie Coleman"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: src/Assist/tasks/images/AiImageGeneratorMarkup.jsx:164
+msgid "Image description"
+msgstr "Bild-Beschreibung"
+
+#: app/Shared/Services/Import/ImagesImporter.php:82
+msgid "Every 10 minutes"
+msgstr "Alle 10 Minuten"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/components/dashboard/domains/DomainCard.jsx:58
+#: src/Assist/components/dashboard/domains/SecondaryDomainCard.jsx:60
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: src/Assist/components/dashboard/RecommendationCard.jsx:171
+msgid "Install Now"
+msgstr "Jetzt installieren"
+
+#. translators: %s: The name of the company/author
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: src/Assist/components/dashboard/RecommendationCard.jsx:37
+#: src/Assist/components/dashboard/RecommendationCard.jsx:69
+msgid "Logo for %s"
+msgstr "Logo für %s"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: src/Assist/components/dashboard/RecommendationCard.jsx:155
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: app/PluginNotifications/NotificationsListTable.php:58
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: src/Assist/components/dashboard/RecommendationCard.jsx:138
+msgid "Active"
+msgstr "Aktiv"
+
+#: app/PluginNotifications/NotificationsListTable.php:184
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: src/Assist/components/dashboard/RecommendationCard.jsx:126
+msgid "Error"
+msgstr "Fehler"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:7
+#: src/Assist/tasks/images/AiImageGeneratorMarkup.jsx:173
+#: src/Draft/components/image-generation/GenerateForm.jsx:51
+msgid "Aspect Ratio"
+msgstr "Seitenverhältnis"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:7
+#: src/Assist/tasks/images/AiImageGeneratorMarkup.jsx:107
+#: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:115
+#: src/HelpCenter/components/buttons/AdminBar.jsx:22
+#: src/HelpCenter/components/buttons/PostEditor.jsx:21
+msgid "Help"
+msgstr "Hilfe"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:7
+#: src/Assist/components/dashboard/QuickLinks.jsx:46
+#: src/Assist/components/dashboard/QuickLinks.jsx:53
+msgid "Site style"
+msgstr "Website-Stil"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:7
+#: src/Assist/components/dashboard/QuickLinks.jsx:60
+msgid "Edit header"
+msgstr "Header bearbeiten"
+
+#. translators: "Reset site" refers to the action of resetting the user's
+#. WordPress site to a fresh state.
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:9
+#: src/Assist/components/dashboard/QuickLinks.jsx:82
+msgid "Reset site"
+msgstr "Website zurücksetzen"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:7
+#: src/Assist/components/dashboard/QuickLinks.jsx:67
+msgid "Edit footer"
+msgstr "Footer bearbeiten"
+
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/HelpCenter/pages/KnowledgeBase.jsx:54
+msgid "Search results"
+msgstr "Suchergebnisse"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:7
+#: src/Assist/components/dashboard/QuickLinks.jsx:25
+msgid "Add new page"
+msgstr "Neue Seite hinzufügen"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:7
+#: src/Assist/components/dashboard/QuickLinks.jsx:32
+msgid "Add new post"
+msgstr "Neuen Beitrag hinzufügen"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:18
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Agent/tours/plugin-management.js:5
+#: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:200
+#: src/Assist/tasks/images/HelpCenterMarkup.jsx:222
+#: src/HelpCenter/tours/plugin-management.js:5
+msgid "Plugin management"
+msgstr "Plugin-Verwaltung"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/image-generation/ImagePreview.jsx:97
+msgid "Delete image"
+msgstr "Bild löschen"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/pages/GenerateImage.jsx:99
+msgid "Image Description"
+msgstr "Bild-Beschreibung"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/image-generation/ImagePreview.jsx:90
+msgid "Use this image"
+msgstr "Dieses Bild verwenden"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:163
+#: src/Draft/components/TranslationDropdown.jsx:230
+msgid "Translate"
+msgstr "Übersetzen"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:209
+msgid "Vietnamese"
+msgstr "Vietnamesisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:204
+msgid "Ukrainian"
+msgstr "Ukrainisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:194
+msgid "Swedish"
+msgstr "Schwedisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:149
+msgid "Polish"
+msgstr "Polnisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:129
+msgid "Japanese"
+msgstr "Japanisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:124
+msgid "Italian"
+msgstr "Italienisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:89
+msgid "German"
+msgstr "Deutsch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:69
+msgid "Finnish"
+msgstr "Finnisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:39
+msgid "Danish"
+msgstr "Dänisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:54
+msgid "English"
+msgstr "Englisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: src/Draft/components/DraftMenu.jsx:25
+msgid "Headline …"
+msgstr "Überschrift …"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: src/Draft/components/DraftMenu.jsx:13
+msgid "A paragraph …"
+msgstr "Ein Absatz …"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:119
+msgid "Indonesian"
+msgstr "Indonesisch"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:179
+msgid "Spanish (Spain)"
+msgstr "Spanisch (Spanien)"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:159
+msgid "Portuguese (Portugal)"
+msgstr "Portugiesisch (Portugal)"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:154
+msgid "Portuguese (Brazil)"
+msgstr "Portugiesisch (Brasilien)"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:94
+msgid "German (Switzerland)"
+msgstr "Deutsch (Schweiz)"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:84
+msgid "French (France)"
+msgstr "Französisch (Frankreich)"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:74
+msgid "French (Belgium)"
+msgstr "Französisch (Belgien)"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:49
+msgid "Dutch (Belgium)"
+msgstr "Niederländisch (Belgien)"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/TranslationDropdown.jsx:44
+msgid "Dutch"
+msgstr "Niederländisch"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/components/BusinessInformation/Tones.jsx:11
+msgid "Friendly"
+msgstr "Freundlich"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/components/BusinessInformation/Tones.jsx:7
+msgid "Professional"
+msgstr "Professionell"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/components/BusinessInformation/Tones.jsx:19
+msgid "Informative"
+msgstr "Informativ"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/components/BusinessInformation/Tones.jsx:15
+msgid "Inspirational"
+msgstr "Inspirierend"
+
+#. translators: %1$s is the current step, %2$s is the total number of steps
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:16
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:7
+#: src/Agent/components/GuidedTour.jsx:443
+#: src/HelpCenter/components/tours/GuidedTour.jsx:450
+msgid "%1$s of %2$s"
+msgstr "%1$s von %2$s"
+
+#: public/build/extendify-library-46b68847bd85f90eb8b6.js:4
+#: src/Library/components/Modal.jsx:31
+msgid "Pattern added"
+msgstr "Vorlage hinzugefügt"
+
+#: public/build/extendify-library-46b68847bd85f90eb8b6.js:4
+#: src/Library/components/Modal.jsx:114
+msgid "Design Patterns"
+msgstr "Designvorlagen"
+
+#: public/build/extendify-library-46b68847bd85f90eb8b6.js:1
+#: src/Library/components/sidebar/CategoryControl.jsx:94
+msgid "Fetching..."
+msgstr "Wird abgerufen..."
+
+#: public/build/extendify-library-46b68847bd85f90eb8b6.js:1
+#: src/Library/components/sidebar/CategoryControl.jsx:86
+msgid "Retrying..."
+msgstr "Erneuter Versuch..."
+
+#: app/PluginNotifications/NotificationsListTable.php:65
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: public/build/extendify-library-46b68847bd85f90eb8b6.js:1
+#: src/Assist/svg/DesignLibraryMarkup.jsx:78
+#: src/Library/components/sidebar/CategoryControl.jsx:62
+msgid "All"
+msgstr "Alle"
+
+#: public/build/extendify-library-46b68847bd85f90eb8b6.js:1
+#: src/Library/components/sidebar/CategoryControl.jsx:26
+msgid "Design Type"
+msgstr "Design-Typ"
+
+#: public/build/extendify-library-46b68847bd85f90eb8b6.js:1
+#: src/Library/components/ModalContent.jsx:81
+msgid "Loading more patterns..."
+msgstr "Weitere Vorlagen werden geladen..."
+
+#: public/build/extendify-library-46b68847bd85f90eb8b6.js:1
+#: src/Library/components/ModalContent.jsx:37
+#: src/Library/components/ModalContent.jsx:70
+msgid "Loading Patterns..."
+msgstr "Vorlagen werden geladen..."
+
+#: public/build/extendify-library-46b68847bd85f90eb8b6.js:1
+#: src/Library/components/BlockPreviewButton.jsx:28
+msgid "Insert Pattern"
+msgstr "Vorlage einfügen"
+
+#: app/Library/Admin.php:146
+msgid "Extendify Library User Settings"
+msgstr "Benutzereinstellungen für Extendify-Bibliothek"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Draft/components/ConsentSidebar.jsx:21
+#: src/HelpCenter/pages/AIChat.jsx:173
+msgid "Accept"
+msgstr "Akzeptieren"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Draft/components/ConsentSidebar.jsx:12
+#: src/HelpCenter/pages/AIChat.jsx:164
+msgid "Terms of Use"
+msgstr "Nutzungsbedingungen"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/pages/PagesSelect.jsx:179
+msgid "View more pages"
+msgstr "Mehr Seiten anzeigen"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/pages/PagesSelect.jsx:136
+msgid "We already selected the most common pages for your type of website."
+msgstr "Wir haben bereits die gängigsten Seiten für deine Art von Website ausgewählt."
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/pages/PagesSelect.jsx:132
+msgid "Pick the pages to add to your website"
+msgstr "Wähle die Seiten aus, die du deiner Website hinzufügen möchtest"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/pages/HomeSelect.jsx:33
+msgid "Pick a design for your website"
+msgstr "Wähle ein Design für deine Website"
+
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/HelpCenter/pages/KnowledgeBase.jsx:52
+msgid "Searching..."
+msgstr "Suche..."
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/pages/SiteInformation.jsx:181
+msgid "Enter your website name"
+msgstr "Gib den Namen deiner Website ein"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:17
+#: src/Launch/pages/CreatingSite.jsx:575
+msgid "Helping you to succeed"
+msgstr "Dir zum Erfolg verhelfen"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:14
+#: src/Launch/pages/CreatingSite.jsx:342
+msgid "Adding page content"
+msgstr "Inhalte zur Seite hinzufügen"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/pages/CreatingSite.jsx:150
+msgid "Creating a beautiful website"
+msgstr "Eine schöne Website erstellen"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/pages/CreatingSite.jsx:149
+msgid "Applying your website styles"
+msgstr "Deine Website-Stile anwenden"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:74
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:82
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Agent/components/redirects/RedirectFontsVariations.jsx:12
+#: src/Agent/components/redirects/RedirectThemeVariations.jsx:17
+#: src/Agent/workflows/theme/components/Redirect.jsx:12
+#: src/Launch/pages/PagesSelect.jsx:50
+msgid "Home page"
+msgstr "Homepage"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: src/Draft/components/InsertMenu.jsx:256
+msgid "Discard"
+msgstr "Verwerfen"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:14
+#: src/Launch/pages/CreatingSite.jsx:253
+msgid "Populating data"
+msgstr "Daten werden gefüllt"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:14
+#: src/Launch/pages/CreatingSite.jsx:254
+msgid "Personalizing your experience"
+msgstr "Deine Erfahrung personalisieren"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: src/Draft/components/InsertMenu.jsx:247
+msgid "Try again"
+msgstr "Erneut versuchen"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:196 src/Draft/app.js:23
+#: src/Draft/app.js:28
+msgid "AI Tools"
+msgstr "KI-Werkzeuge"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:24
+#: src/Agent/workflows/content/components/UpdatePostStatusConfirm.jsx:5
+msgid "Draft"
+msgstr "Entwurf"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Assist/tasks/images/AiImageGeneratorMarkup.jsx:131
+#: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:136
+#: src/Assist/tasks/images/HelpCenterMarkup.jsx:173
+#: src/Draft/components/GenerateImageButtons.jsx:120
+#: src/Draft/components/ToolbarMenu.jsx:91 src/HelpCenter/pages/AIChat.jsx:34
+msgid "Ask AI"
+msgstr "KI fragen"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: src/Draft/components/InsertMenu.jsx:195
+msgid "Replace selected block text"
+msgstr "Ersetze den Text des ausgewählten Blocks"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: src/Draft/components/Input.jsx:49
+msgid "Ask AI to generate text"
+msgstr "Frage die KI, Text zu generieren"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: src/Draft/components/Input.jsx:46
+msgid "AI is writing..."
+msgstr "KI schreibt..."
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:150
+#: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:248
+#: src/Draft/components/EditMenu.jsx:52
+#: src/Draft/components/ToolbarMenu.jsx:119
+msgid "Simplify language"
+msgstr "Sprache vereinfachen"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:158
+#: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:256
+#: src/Draft/components/EditMenu.jsx:62
+#: src/Draft/components/ToolbarMenu.jsx:133
+msgid "Make longer"
+msgstr "Verlängern"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:154
+#: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:252
+#: src/Draft/components/EditMenu.jsx:57
+#: src/Draft/components/ToolbarMenu.jsx:126
+msgid "Make shorter"
+msgstr "Verkürzen"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/components/EditMenu.jsx:47
+#: src/Draft/components/ToolbarMenu.jsx:112
+msgid "Fix spelling & grammar"
+msgstr "Rechtschreibung und Grammatik korrigieren"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:142
+#: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:240
+#: src/Draft/components/EditMenu.jsx:41
+#: src/Draft/components/ToolbarMenu.jsx:105
+msgid "Improve writing"
+msgstr "Schreibstil verbessern"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: src/Draft/components/DraftMenu.jsx:18
+msgid "Write a blog post about"
+msgstr "Schreibe einen Blog-Beitrag über"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:97
+msgid "For other questions, visit our support page."
+msgstr "Für weitere Fragen, besuche unsere Support-Seite."
+
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:1
+#: src/HelpCenter/components/ai-chat/Nav.jsx:36
+msgid "WordPress Comfort Level"
+msgstr "WordPress-Komfortlevel"
+
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:1
+#: src/HelpCenter/components/ai-chat/Nav.jsx:9
+msgid "Intermediate"
+msgstr "Fortgeschritten"
+
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:1
+#: src/HelpCenter/components/ai-chat/Nav.jsx:8
+msgid "Beginner"
+msgstr "Anfänger"
+
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:1
+#: src/HelpCenter/components/ai-chat/Nav.jsx:10
+msgid "Advanced"
+msgstr "Profi"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:4
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:1
+#: src/Agent/components/Rating.jsx:49
+#: src/HelpCenter/components/ai-chat/Rating.jsx:48
+msgid "Rate that this answer was not helpful"
+msgstr "Bewerte, dass diese Antwort nicht hilfreich war"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:4
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:1
+#: src/Agent/components/Rating.jsx:28
+#: src/HelpCenter/components/ai-chat/Rating.jsx:27
+msgid "Rate that this answer was helpful"
+msgstr "Bewerte, dass diese Antwort hilfreich war"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:4
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:1
+#: src/Agent/components/Rating.jsx:27 src/Agent/components/Rating.jsx:48
+#: src/HelpCenter/components/ai-chat/Rating.jsx:26
+#: src/HelpCenter/components/ai-chat/Rating.jsx:47
+msgid "Remove rating"
+msgstr "Bewertung entfernen"
+
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/HelpCenter/components/ai-chat/Question.jsx:33
+msgid "Ask your WordPress question…"
+msgstr "Stelle deine WordPress Frage..."
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:84
+#: src/HelpCenter/components/ai-chat/Question.jsx:27
+msgid "Ask me any questions about WordPress."
+msgstr "Stelle mir alle Fragen zu WordPress."
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:81
+#: src/HelpCenter/components/ai-chat/Question.jsx:24
+msgid "Hi there!"
+msgstr "Hallo!"
+
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:1
+#: src/HelpCenter/components/ai-chat/Answer.jsx:82
+msgid "Ask Another Question"
+msgstr "Eine weitere Frage stellen"
+
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:1
+#: src/HelpCenter/components/ai-chat/Answer.jsx:35
+msgid "Oops! We were unable to send your question."
+msgstr "Ups! Wir konnten deine Frage nicht senden."
+
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:1
+#: src/HelpCenter/components/ai-chat/Error.jsx:14
+msgid "Please try again."
+msgstr "Bitte versuche es erneut."
+
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/HelpCenter/components/knowledge-base/SearchForm.jsx:20
+msgid "Search for articles"
+msgstr "Suche nach Artikeln"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Assist/tasks/images/HelpCenterMarkup.jsx:160
+#: src/HelpCenter/pages/Tours.jsx:65
+msgid "Tour this page"
+msgstr "Tour auf dieser Seite starten"
+
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/HelpCenter/pages/KnowledgeBase.jsx:28
+#: src/HelpCenter/pages/KnowledgeBase.jsx:84
+#: src/HelpCenter/pages/KnowledgeBase.jsx:89
+msgid "Knowledge Base"
+msgstr "Wissensdatenbank"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: src/Assist/components/dashboard/LaunchCard.jsx:9
+#: src/Assist/components/dashboard/LaunchCard.jsx:20
+#: src/Assist/components/dashboard/LaunchCard.jsx:29
+#: src/Assist/components/dashboard/LaunchCard.jsx:38
+#: src/Assist/components/dashboard/LaunchCard.jsx:47
+#: src/Assist/components/dashboard/LaunchCard.jsx:56
+#: src/Assist/tasks/site-builder-launcher.js:10
+msgid "Create a super-fast, beautiful, and fully customized site in minutes with our Site Launcher."
+msgstr "Erstelle mit unserem Site Launcher in wenigen Minuten eine superschnelle, schöne und vollständig angepasste Website."
+
+#: app/HelpCenter/Controllers/SupportArticlesController.php:109
+msgid "Page not found"
+msgstr "Seite nicht gefunden"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:18
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Agent/tours/page-editor.js:228 src/HelpCenter/tours/page-editor.js:231
+#: src/Launch/components/PageSelectButton.jsx:42
+msgid "Preview"
+msgstr "Vorschau"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Assist/tasks/help-center.js:6
+#: src/Assist/tasks/images/HelpCenterMarkup.jsx:74
+#: src/HelpCenter/pages/Dashboard.jsx:26
+#: src/HelpCenter/tours/site-assistant.js:79
+msgid "Help Center"
+msgstr "Hilfe-Center"
+
+#. translators: This string represents the title of an "Home" page on a
+#. website. Please translate it in a way that fits the standard phrasing for a
+#. "Home" page in the target language, considering the common usage in websites
+#. for that language.
+#: public/build/extendify-common-20388f64d97467a51614.js:39
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Draft/pages/Home.jsx:58 src/Shared/lib/pages.js:78
+msgid "Home"
+msgstr "Start"
+
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/HelpCenter/components/knowledge-base/Article.jsx:153
+msgid "There was an error loading this article"
+msgstr "Es gab einen Fehler beim Laden dieses Artikels"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:179
+#: src/Assist/tasks/images/HelpCenterMarkup.jsx:142
+#: src/Assist/tasks/images/HelpCenterMarkup.jsx:201
+#: src/HelpCenter/pages/Tours.jsx:41 src/HelpCenter/pages/Tours.jsx:125
+msgid "Tours"
+msgstr "Touren"
+
+#. translators: This string represents the title of an "Events" page on a
+#. website that lists events of any kind. Please translate it in a way that
+#. fits the standard phrasing for an "Events" page in the target language,
+#. considering the common usage in websites for that language.
+#: public/build/extendify-auto-launch-b5c459e24210e13f67d2.js:50
+#: public/build/extendify-common-20388f64d97467a51614.js:23
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:17
+#: src/AutoLaunch/hooks/useCreateSite.js:429
+#: src/Launch/pages/CreatingSite.jsx:497 src/Shared/lib/pages.js:46
+msgid "Events"
+msgstr "Veranstaltungen"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:18
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:9
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Agent/tours/site-assistant.js:36
+#: src/Assist/components/dashboard/QuickLinks.jsx:102
+#: src/HelpCenter/tours/site-assistant.js:35
+msgid "Quick Links"
+msgstr "Quick-Links"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:16
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:7
+#: src/Agent/components/GuidedTour.jsx:485
+#: src/Assist/components/ImageUploader.jsx:159
+#: src/HelpCenter/components/tours/GuidedTour.jsx:492
+msgid "Done"
+msgstr "Erledigt"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:13
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Agent/components/GuidedTour.jsx:434
+#: src/HelpCenter/components/tours/GuidedTour.jsx:441
+msgid "Tour Steps"
+msgstr "Tour-Schritte"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:13
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Agent/components/GuidedTour.jsx:313
+#: src/HelpCenter/components/tours/GuidedTour.jsx:315
+msgid "Tour"
+msgstr "Tour"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: src/Draft/components/DraftMenu.jsx:17
+msgid "Blog post …"
+msgstr "Blogbeitrag …"
+
+#: public/build/extendify-library-46b68847bd85f90eb8b6.js:4
+#: public/build/extendify-page-creator-6d8b3f0e0ada07c15f72.js:4
+#: src/Library/components/topbar/Topbar.jsx:23
+#: src/PageCreator/components/topbar/Topbar.jsx:62
+msgid "Open for new pages"
+msgstr "Auf neuen Seiten öffnen"
+
+#. translators: %s: Extendify Library term
+#. translators: %s: Extendify AI Page creator term
+#: public/build/extendify-library-46b68847bd85f90eb8b6.js:4
+#: public/build/extendify-page-creator-6d8b3f0e0ada07c15f72.js:4
+#: src/Library/components/topbar/Topbar.jsx:12
+#: src/PageCreator/components/topbar/Topbar.jsx:49
+msgid "Toggle %s on new pages"
+msgstr "%s auf neuen Seiten einschalten"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Assist/tasks/update-site-description.js:15
+#: src/Draft/components/GenerateImageButtons.jsx:141
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:10
+#: src/Assist/tasks/images/AiImageGeneratorMarkup.jsx:135
+#: src/Assist/tasks/upload-logo.js:14 src/Assist/tasks/upload-site-icon.js:14
+#: src/Draft/components/GenerateImageButtons.jsx:141
+msgid "Replace"
+msgstr "Ersetzen"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:16
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:18
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:21
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:24
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:33
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:50
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:54
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:64
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:70
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:78
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:82
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Agent/components/ImageUploader.jsx:225
+#: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:254
+#: src/Agent/workflows/block-selector/components/UpdateBlockConfirm.jsx:133
+#: src/Agent/workflows/block-selector/components/UpdateImageConfirm.jsx:178
+#: src/Agent/workflows/content/components/UpdatePostConfirm.jsx:67
+#: src/Agent/workflows/theme/components/change-site-design/SelectSiteDesign.jsx:380
+#: src/Agent/workflows/theme/components/SelectAnimation.jsx:179
+#: src/Agent/workflows/theme/components/SelectGeneratedPalette.jsx:198
+#: src/Agent/workflows/theme/components/SelectSiteVibes.jsx:137
+#: src/Agent/workflows/theme/components/SelectThemeFontsVariation.jsx:105
+#: src/Agent/workflows/theme/components/SelectThemeVariation.jsx:119
+#: src/Agent/workflows/theme/components/UpdateMenuConfirm.jsx:81
+#: src/Assist/components/tasks/UpdateSiteDescription.jsx:85
+msgid "Save"
+msgstr "Speichern"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/components/tasks/UpdateSiteDescription.jsx:70
+msgid "Enter a site description..."
+msgstr "Füge eine Website-Beschreibung ein..."
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:18
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Agent/tours/page-creator.js:81
+#: src/Assist/components/tasks/UpdateSiteDescription.jsx:58
+#: src/HelpCenter/tours/page-creator.js:81
+msgid "Site description"
+msgstr "Website-Beschreibung"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/components/tasks/UpdateSiteDescription.jsx:26
+msgid "Add site description"
+msgstr "Website-Beschreibung hinzufügen"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/components/tasks/UpdateLogo.jsx:13
+msgid "Upload site logo"
+msgstr "Website-Logo hochladen"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:17
+#: src/Launch/pages/CreatingSite.jsx:591
+msgid "We encountered a server error we cannot recover from. Please reload the page and try again."
+msgstr "Es ist ein Serverfehler aufgetreten, der nicht behoben werden kann. Bitte lade die Seite neu und versuche es erneut."
+
+#: app/AdminPageRouter.php:42 app/AdminPageRouter.php:66
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:18
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Agent/tours/site-assistant.js:5 src/Agent/tours/site-assistant.js:106
+#: src/Agent/tours/welcome.js:74
+#: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:216
+#: src/Assist/tasks/images/HelpCenterMarkup.jsx:238
+#: src/HelpCenter/tours/site-assistant.js:5
+#: src/HelpCenter/tours/site-assistant.js:126
+#: src/HelpCenter/tours/welcome.js:73
+msgid "Site Assistant"
+msgstr "Website-Assistent"
+
+#: app/PluginNotifications/Admin.php:270
+msgid "Hide"
+msgstr "Verbergen"
+
+#. translators: This string represents the title of a "Blog" page on a website
+#. that shows recent blog posts. Please translate it in a way that fits the
+#. standard phrasing for a "Blog" page in the target language, considering the
+#. common usage in websites for that language.
+#: public/build/extendify-common-20388f64d97467a51614.js:7
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/pages/ObjectiveSelection.jsx:37 src/Shared/lib/pages.js:14
+msgid "Blog"
+msgstr "Blog"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:82
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Agent/workflows/theme/components/UpdateLogoConfirm.jsx:67
+#: src/Assist/components/tasks/UpdateLogo.jsx:20
+msgid "Set site logo"
+msgstr "Website-Logo setzen"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:82
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Agent/workflows/theme/components/UpdateLogoConfirm.jsx:66
+#: src/Assist/components/tasks/UpdateLogo.jsx:19
+msgid "Site logo"
+msgstr "Website-Logo"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:13
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Agent/components/GuidedTour.jsx:308 src/Assist/components/Modal.jsx:38
+#: src/HelpCenter/components/tours/GuidedTour.jsx:310
+msgid "Close Modal"
+msgstr "Modal schließen"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/components/tasks/UpdateSiteIcon.jsx:13
+msgid "Upload site icon"
+msgstr "Website-Icon hochladen"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:82
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Agent/workflows/theme/components/UpdateSiteIconConfirm.jsx:62
+#: src/Assist/components/tasks/UpdateSiteIcon.jsx:20
+msgid "Set site icon"
+msgstr "Website-Icon auswählen"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:82
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Agent/workflows/theme/components/UpdateSiteIconConfirm.jsx:61
+#: src/Assist/components/tasks/UpdateSiteIcon.jsx:19
+msgid "Site icon"
+msgstr "Website-Icon"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/components/ImageUploader.jsx:150
+msgid "Remove image"
+msgstr "Bild entfernen"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/components/ImageUploader.jsx:139
+msgid "Replace image"
+msgstr "Bild ersetzen"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:16
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Agent/components/ImageUploader.jsx:141
+#: src/Assist/components/ImageUploader.jsx:96
+msgid "Edit or update the image"
+msgstr "Bearbeite oder aktualisiere das Bild"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: src/Assist/pages/parts/Header.jsx:53
+msgid "View site"
+msgstr "Website anzeigen"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/components/dashboard/LaunchCard.jsx:60
+msgid "Select Site Pages"
+msgstr "Seiten auswählen"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/components/dashboard/LaunchCard.jsx:51
+msgid "Select Site Design"
+msgstr "Design auswählen"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/components/dashboard/LaunchCard.jsx:8
+#: src/Assist/components/dashboard/LaunchCard.jsx:19
+msgid "Let's Start Building Your Website"
+msgstr "Lass uns deine Website erstellen"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/components/dashboard/LaunchCard.jsx:28
+#: src/Assist/components/dashboard/LaunchCard.jsx:37
+#: src/Assist/components/dashboard/LaunchCard.jsx:46
+#: src/Assist/components/dashboard/LaunchCard.jsx:55
+msgid "Continue Building Your Website"
+msgstr "Mit der Erstellung deiner Website fortfahren"
+
+#: app/PluginNotifications/NotificationsListTable.php:81
+#: app/PluginNotifications/NotificationsListTable.php:173
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:24
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Agent/workflows/content/components/GeneratePageResult.jsx:32
+#: src/Assist/components/dashboard/buttons/DismissButton.jsx:17
+#: src/Assist/components/dashboard/LaunchCard.jsx:119
+msgid "Dismiss"
+msgstr "Verwerfen"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/pages/ObjectiveSelection.jsx:47
+msgid "Other"
+msgstr "Sonstiges"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: src/Assist/tasks/demo-card.js:14 src/Assist/tasks/demo-card.js:15
+#: src/Assist/tasks/images/LaunchDemoSitesMarkup.jsx:59
+#: src/Assist/tasks/ionos-connect-domain.js:15
+#: src/Assist/tasks/ionos-connect-domain.js:16
+msgid "Learn More"
+msgstr "Weitere Informationen"
+
+#: app/PluginNotifications/Admin.php:271
+#: app/PluginNotifications/NotificationsListTable.php:165
+msgid "View"
+msgstr "Anzeigen"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:17
+#: src/Launch/pages/CreatingSite.jsx:579
+msgid "Redirecting in 3, 2, 1..."
+msgstr "Du wird weitergeleitet in 3, 2, 1..."
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:17
+#: src/Launch/pages/CreatingSite.jsx:578
+msgid "Your website has been created!"
+msgstr "Deine Website wurde erstellt!"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:17
+#: src/Launch/pages/CreatingSite.jsx:574
+msgid "Setting up your Site Assistant"
+msgstr "Einrichten deines Seitenassistenten"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:14
+#: src/Launch/pages/CreatingSite.jsx:343
+msgid "Starting off with a full website"
+msgstr "Beginnen mit einer vollständigen Website"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/components/PageControl.jsx:382
+msgid "Skip"
+msgstr "Überspringen"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:13
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Agent/components/GuidedTour.jsx:425
+#: src/HelpCenter/components/tours/GuidedTour.jsx:432
+#: src/Launch/components/PageControl.jsx:344
+msgid "Back"
+msgstr "Zurück"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/components/dashboard/LaunchCard.jsx:27
+msgid "Site Industry"
+msgstr "Website-Branche"
+
+#: public/build/extendify-auto-launch-b5c459e24210e13f67d2.js:52
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:17
+#: src/AutoLaunch/components/NeedsTheme.jsx:11
+#: src/Launch/pages/NeedsTheme.jsx:14
+msgid "Hey there, Launch is powered by Extendable and is required to proceed. You can install it from the link below and start over once activated."
+msgstr "Launch benötigt Extendable um fortzufahren. Du kannst es über den nachstehenden Link installieren und nach der Aktivierung neu beginnen."
+
+#: public/build/extendify-auto-launch-b5c459e24210e13f67d2.js:52
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:17
+#: src/AutoLaunch/components/NeedsTheme.jsx:7
+#: src/Launch/pages/NeedsTheme.jsx:10
+msgid "One more thing before we start."
+msgstr "Noch eine Sache, bevor wir anfangen."
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:1
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:24
+#: public/build/extendify-auto-launch-b5c459e24210e13f67d2.js:52
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:17
+#: src/Agent/components/messages/AgentMessage.jsx:19
+#: src/Agent/workflows/content/components/GeneratePageResult.jsx:39
+#: src/AutoLaunch/components/NeedsTheme.jsx:20
+#: src/Launch/pages/NeedsTheme.jsx:23
+msgid "Take me there"
+msgstr "Aufrufen"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: src/Assist/svg/DesignLibraryMarkup.jsx:84
+msgid "Content"
+msgstr "Inhalt"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:16
+#: public/build/extendify-auto-launch-b5c459e24210e13f67d2.js:52
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:7
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Agent/components/GuidedTour.jsx:473
+#: src/AutoLaunch/components/DescriptionGathering.jsx:177
+#: src/HelpCenter/components/tours/GuidedTour.jsx:480
+#: src/Launch/components/PageControl.jsx:396
+msgid "Next"
+msgstr "Weiter"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/components/SmallPreview.jsx:184
+#: src/Launch/pages/ObjectiveSelection.jsx:119
+#: src/Launch/pages/SiteStructure.jsx:93
+msgid "Press to select"
+msgstr "Drücke zum Auswählen"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: public/build/extendify-page-creator-6d8b3f0e0ada07c15f72.js:4
+#: src/Launch/components/RetryNotice.jsx:12
+#: src/PageCreator/components/RetryNotice.jsx:12
+msgid "Just a moment, this is taking longer than expected."
+msgstr "Einen Moment, es dauert länger als erwartet."
+
+#. translators: Launch is a noun.
+#: app/AdminPageRouter.php:78
+msgid "Launch"
+msgstr "Launch"
+
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Launch/pages/HomeSelect.jsx:34
+msgid "You can personalize this later."
+msgstr "Dies kann später individuell angepasst werden."
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/Agent/tours/welcome.js:172
+#: src/Assist/components/dashboard/LaunchCard.jsx:54
+#: src/HelpCenter/tours/welcome.js:171
+msgid "Pages"
+msgstr "Seiten"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:18
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Agent/workflows/block-selector/components/UpdateBlockConfirm.jsx:99
+#: src/Assist/components/tasks/UpdateSiteDescription.jsx:48
+#: src/Launch/components/LoadingIndicator.jsx:5
+#: src/Launch/pages/SiteQuestions.jsx:183
+msgid "Loading..."
+msgstr "Wird geladen …"
+
+#: public/build/extendify-agent-9d1c6defa5e8b1930355.js:18
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: public/build/extendify-library-46b68847bd85f90eb8b6.js:1
+#: src/Agent/tours/library-tour.js:6
+#: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:208
+#: src/Assist/tasks/images/HelpCenterMarkup.jsx:230
+#: src/Assist/tasks/open-design-library.js:7
+#: src/HelpCenter/tours/library-tour.js:7
+#: src/Library/components/MainButton.jsx:31
+#: src/Library/components/MainButton.jsx:35
+msgid "Design Library"
+msgstr "Design-Bibliothek"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:1
+#: public/build/extendify-launch-169f4581091a2b7e786b.js:8
+#: src/Assist/components/dashboard/LaunchCard.jsx:45
+#: src/Launch/svg/Design.jsx:15
+msgid "Design"
+msgstr "Design"
+
+#. Author of the plugin
+#: extendify.php
+msgid "Extendify"
+msgstr "Extendify"
+
+#: public/build/extendify-page-creator-6d8b3f0e0ada07c15f72.js:4
+#: src/PageCreator/components/content/CustomTextarea.jsx:45
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: public/build/extendify-library-46b68847bd85f90eb8b6.js:1
+#: public/build/extendify-page-creator-6d8b3f0e0ada07c15f72.js:1
+#: src/Library/components/topbar/CloseButton.jsx:9
+#: src/Library/components/topbar/CloseButton.jsx:16
+#: src/PageCreator/components/topbar/CloseButton.jsx:9
+#: src/PageCreator/components/topbar/CloseButton.jsx:16
+msgid "Close"
+msgstr "Schließen"
+
+#: public/build/extendify-help-center-079e40452a8cd0a1b4a2.js:4
+#: src/HelpCenter/components/modal/TopBar.jsx:111
+msgid "Go back"
+msgstr "Zurück"
+
+#. Plugin URI of the plugin
+#: extendify.php
+msgid "https://extendify.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr "https://extendify.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+
+#. Author URI of the plugin
+#: extendify.php
+msgid "https://extendify.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://extendify.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#: public/build/extendify-draft-08ba35a8f591ab939cda.js:1
+#: src/Draft/components/Input.jsx:73
+msgid "Submit"
+msgstr "Absenden"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: src/Assist/components/dashboard/RecommendationCard.jsx:170
+msgid "Installing..."
+msgstr "Wird installiert …"
+
+#: public/build/extendify-assist-page-e98b949ab0c13ba07729.js:10
+#: src/Assist/components/dashboard/RecommendationCard.jsx:154
+msgid "Activating..."
+msgstr "Wird aktiviert …"
