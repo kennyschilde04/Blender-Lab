@@ -3,7 +3,7 @@ name: Deploy WordPress to IONOS
 on:
   push:
     branches:
-      - main
+      - Task
 
 jobs:
   deploy:
