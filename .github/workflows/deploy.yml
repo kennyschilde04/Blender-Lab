@@ -14,21 +14,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Install lftp
+        run: sudo apt-get update && sudo apt-get install -y lftp
+
       - name: Deploy to IONOS via SFTP
-        uses: wlixcc/SFTP-Deploy-Action@v1.2.6
-        with:
-          server: ${{ secrets.SFTP_SERVER }}
-          username: ${{ secrets.SFTP_USERNAME }}
-          password: ${{ secrets.SFTP_PASSWORD }}
-          port: 22
-          local_path: './*'
-          remote_path: '/public/'
-          sftpArgs: '-o ConnectTimeout=5'
-          delete_remote_files: false
-          exclude: |
-            .git*
-            .git*/**
-            .github/**
-            wp-config.php
-            .htaccess
-            php.ini
+        run: |
+          lftp -u "${{ secrets.SFTP_USERNAME }}","${{ secrets.SFTP_PASSWORD }}" sftp://${{ secrets.SFTP_SERVER }} <<EOF
+          set sftp:auto-confirm yes
+          mirror -R ./ /public/ \
+            --exclude-glob .git/ \
+            --exclude-glob .github/ \
+            --exclude-glob wp-config.php \
+            --exclude-glob .htaccess \
+            --exclude-glob php.ini
+          bye
+          EOF
