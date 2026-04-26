@@ -25,4 +25,4 @@ jobs:
             --exclude='.DS_Store' \
             -e "ssh -p 22 -o StrictHostKeyChecking=no" \
             ./wp-content/ \
-            ${{ secrets.SFTP_USERNAME }}@${{ secrets.SFTP_SERVER }}:/public/wp-content/
+            ${{ secrets.SFTP_USERNAME }}@${{ secrets.SFTP_SERVER }}:public/wp-content/
