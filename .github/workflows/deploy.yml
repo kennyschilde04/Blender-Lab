@@ -1,0 +1,41 @@
+name: Deploy WordPress to IONOS
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: Upload via FTP
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Deploy to IONOS via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+
+          # Zielordner auf IONOS
+          server-dir: /public/
+
+          # Lokaler Projektordner
+          local-dir: ./
+
+          # Wichtig: diese Dateien NICHT überschreiben
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            wp-config.php
+            .htaccess
+            php.ini
+            README.md
+            readme.html
+            license.txt
+            .github/**
